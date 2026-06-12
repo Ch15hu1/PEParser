@@ -1,0 +1,18 @@
+# 构建产物
+build/*
+bin/*
+*.o
+*.exe
+*.out
+
+# IDE 目录
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 保留 .gitkeep 文件
+!build/.gitkeep
+!bin/.gitkeep
