@@ -13,7 +13,6 @@ set(CPP
     ${CMAKE_CURRENT_SOURCE_DIR}/src/dosHeader.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/src/ntHeader.cpp
-    ${CMAKE_CURRENT_SOURCE_DIR}/src/peParser.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/src/sectionHeaders.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/src/utils.cpp)
 
